@@ -20,6 +20,9 @@
 
 ## 📊 GitHub Stats
 
+<div align="right">
+<img src="https://www.codewars.com/users/DMelisena/badges/large" height="28" alt="Python" />
+</div>
 <div align="center">
   <img width="46.2%" src="https://github-readme-stats.vercel.app/api?username=DMelisena&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="DMelisena's GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DMelisena&theme=transparent&count_private=true&border_radius=10&locale=en" alt="DMelisena's Streak"/>
