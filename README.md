@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Arya;Machine+Learning+Enthusiast;iOS+Developer;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B7280&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Arya;Machine+Learning+Enthusiast;iOS+Developer;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Arya</h1>
-<h3 align="center">A passionate developer exploring the intersection of Machine Learning and Mobile Development</h3>
+<h3 align="center" style="color: #6B7280;">A passionate developer exploring the intersection of Machine Learning and Mobile Development</h3>
 
 ---
 
@@ -35,48 +35,48 @@
 
 ### Languages
 <div align="center">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="30" alt="Python" />
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="30" alt="Swift" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="HTML5" />
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" height="30" alt="Lua" />
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" height="30" alt="Shell Script" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" height="28" alt="Python" />
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" height="28" alt="Swift" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="28" alt="HTML5" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" height="28" alt="Lua" />
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" height="28" alt="Shell Script" />
 </div>
 
 ### Machine Learning & Data Science
 <div align="center">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="30" alt="PyTorch" />
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" height="30" alt="OpenCV" />
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="30" alt="Numpy" />
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="30" alt="Pandas" />
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" height="30" alt="SciPy" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="28" alt="PyTorch" />
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white" height="28" alt="OpenCV" />
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white" height="28" alt="Numpy" />
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white" height="28" alt="Pandas" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="28" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/SciPy-654FF0?style=flat-square&logo=SciPy&logoColor=white" height="28" alt="SciPy" />
 </div>
 
 ### DevOps & Tools
 <div align="center">
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="Docker" />
-<img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" height="30" alt="Railway" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="30" alt="Flask" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="30" alt="npm" />
-<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" height="30" alt="CMake" />
-<img src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white" height="30" alt="ngrok" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" height="28" alt="Docker" />
+<img src="https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white" height="28" alt="Railway" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="28" alt="Flask" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" height="28" alt="npm" />
+<img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" height="28" alt="CMake" />
+<img src="https://img.shields.io/badge/ngrok-140648?style=flat-square&logo=Ngrok&logoColor=white" height="28" alt="ngrok" />
 </div>
 
 ### Development Environment
 <div align="center">
-<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" height="30" alt="NeoVim" />
-<img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" height="30" alt="tmux" />
-<img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white" height="30" alt="Zsh" />
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" height="30" alt="macOS" />
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" height="30" alt="Arch Linux" />
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white" height="28" alt="NeoVim" />
+<img src="https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white" height="28" alt="tmux" />
+<img src="https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=Zsh&logoColor=white" height="28" alt="Zsh" />
+<img src="https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white" height="28" alt="macOS" />
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" height="28" alt="Arch Linux" />
 </div>
 
 ### Other Tools
 <div align="center">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="30" alt="Arduino" />
-<img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" height="30" alt="Airtable" />
-<img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" height="30" alt="Miro" />
-<img src="https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white" height="30" alt="Homebrew" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" height="28" alt="Arduino" />
+<img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=Airtable&logoColor=white" height="28" alt="Airtable" />
+<img src="https://img.shields.io/badge/Miro-F7C922?style=flat-square&logo=Miro&logoColor=050036" height="28" alt="Miro" />
+<img src="https://img.shields.io/badge/homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=white" height="28" alt="Homebrew" />
 </div>
 
 ---
@@ -97,23 +97,23 @@
 
 <div align="center">
   <a href="mailto:aryasenaria@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="32" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/arya-hanif" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
   </a>
   <a href="https://bsky.app/profile/[YOUR-BLUESKY-HANDLE]" target="_blank">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" height="35" alt="Bluesky" />
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=flat-square" height="32" alt="Bluesky" />
   </a>
   <a href="https://www.codewars.com/users/[YOUR-CODEWARS-USERNAME]" target="_blank">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height="35" alt="Codewars" />
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=white" height="32" alt="Codewars" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DMelisena&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DMelisena&style=flat-square&color=gray" alt="Profile views" />
 </div>
 
 <div align="center">
