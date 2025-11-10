@@ -9,17 +9,19 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Machine Learning projects and iOS applications**
-- 🌱 I'm currently learning **Machine Learning** and **System Design**
-- 💡 Interested in **Computer Vision, Deep Learning, and iOS Development**
-- 💬 Ask me about **Python, Swift, React, PyTorch, or anything [here](https://github.com/DMelisena/DMelisena/issues)**
+- 🔭 I'm currently working on **Machine Learning and iOS development**
+- 🌱 I'm currently learning on deploying a **maintainable machine learning pipeline**
+- 💡 Interested in **Computer Vision, Deep Learning and iOS Development**
+- 💬 Ask me about **Python, Swift, PyTorch, or anything [here](https://github.com/DMelisena/DMelisena/issues)**
 - 📫 How to reach me: **aryasenaria@gmail.com**
 - ⚡ Fun fact: **I did Nuclear Engineer Degree that focuses on it's application on health**
+- 📝 My [thesis](https://drive.google.com/drive/folders/1iaZLTpn92HK7X1dKjHIhef5N6watuKGg) is on bahasa, it's about :
+**comparing the radiation dose surrounding linear accelerator bunker using particle transportation simulation, analytical method and real life dose measurement.**
 
 ---
 
-## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 <div align="right">
 <img src="https://www.codewars.com/users/DMelisena/badges/large" height="28" alt="Python" />
 </div>
